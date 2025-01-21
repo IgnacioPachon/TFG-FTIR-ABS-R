@@ -1,4 +1,4 @@
-This Repository contains my final degree project titled:
+This Repository contains my final degree project (Degree in Biology) titled:
 
 "TRATAMIENTO DE DATOS QUÍMICO-FORENSES PARA LA DISCRIMINACIÓN DE FLUIDOS BIOLÓGICOS EN MATERIALES SUPERABSORBENTES"
 
